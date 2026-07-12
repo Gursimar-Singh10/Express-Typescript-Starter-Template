@@ -1,3 +1,4 @@
+
 ## Steps to setup the starter template
 
 1. Clone the project
@@ -29,3 +30,5 @@ echo PORT=3000 >> .env
 ```
 npm run dev
 ```
+=======
+
